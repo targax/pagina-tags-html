@@ -14,7 +14,7 @@ O objetivo deste projeto é demonstrar o uso de tags HTML básicas e como elas e
 
 1. Baixe ou clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/blog-html.git
+   git clone https://github.com/targax/pagina-tags-html
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
@@ -65,7 +65,4 @@ Usadas para criar listas ordenadas e não ordenadas.
 
 Se desejar contribuir, fique à vontade para enviar um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License.
 
